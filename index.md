@@ -1,38 +1,10 @@
-## Welcome to GitHub Pages
+## Abstract
+With the rapid development of UAV systems, the autonomous landing of UAV on moving UGV has received extensive attention as one of the key technologies. However, this technology is confronted with such problems as low accuracy of target location, poor precision of relative motion estimation, delay of control response, slow processing speed and poor stability. To address these issues, we propose a hybrid camera array based autonomous landing of UAV on moving UGV in GPS-denied environments. We first build a UAV autonomous landing system with a hybrid camera array including a fisheye lens camera and a stereo camera. Then we integrate wide FOV and depth to locate the UGV accurately and present a state estimation algorithm for ground moving UGV based on motion compensation, including its actual motion direction and speed. Thereafter, according to the characteristics of the designed system, we derive a nonlinear controller based on the UGV motion state, which makes UGV and UAV keep the same motion state and achieve autonomous landing. Finally, in order to test the performance of the proposed system, we carry out a large number of simulation and real experiments. Through the qualitative and quantitative analysis of the experimental results, as well as the analysis of the time performance, we verify that the autonomous landing performance of the system in the GPS-denied environment is effective and robust.}
 
+## UAV-UGV Landing System
 You can use the [editor on GitHub](https://github.com/npuautolanding/npuautolanding.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
  ![Image](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2630203142,1565907664&fm=173&app=25&f=JPEG?w=500&h=281&s=10154F304287F70DE7AC18C20300B0B0)
-### Jekyll Themes
 
+## Perofrmance
+ ![Image](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2630203142,1565907664&fm=173&app=25&f=JPEG?w=500&h=281&s=10154F304287F70DE7AC18C20300B0B0)
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/npuautolanding/npuautolanding.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
