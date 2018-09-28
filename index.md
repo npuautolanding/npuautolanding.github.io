@@ -5,5 +5,5 @@ With the rapid development of UAV systems, the autonomous landing of UAV on movi
  ![ststem](https://github.com/npuautolanding/npuautolanding.github.io/tree/master/res/fig_intro.png)
 
 ## Perofrmance
- ![demo](https://github.com/npuautolanding/npuautolanding.github.io/tree/master/res/fig_framewrok.png)
+ ![demo](https://github.com/npuautolanding/npuautolanding.github.io/blob/master/res/fig_framewrok.png)
  [index](https://github.com/npuautolanding/npuautolanding.github.io/settings). 
