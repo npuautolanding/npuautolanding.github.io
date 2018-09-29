@@ -8,6 +8,7 @@ With the rapid development of Unmanned Aerial Vehicle (UAV) systems, the autonom
 An illustration of our proposed hybrid camera array based UAV-UGV autonomous landing system. 
 
 ## Perofrmance
-[![demo](Demo_low.png)(https://pan.baidu.com/s/10yXunEACrrC9ryFsFTtKPg)
+[![demo](https://pan.baidu.com/s/10yXunEACrrC9ryFsFTtKPg)
+[demo](Demo_low.png)
 
 Demo video for Hybrid camera array based UAV Auto-Landing on Ground Moving UGV in GPS-denied Environment can be download [here](https://pan.baidu.com/s/10yXunEACrrC9ryFsFTtKPg). 
