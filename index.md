@@ -5,7 +5,7 @@ With the rapid development of Unmanned Aerial Vehicle (UAV) systems, the autonom
 ## UAV-UGV Landing System
 ![ststem](system_low.png)
 
-Our proposed hybrid camera array based UAV-UGV autonomous landing. 
+An illustration of our proposed hybrid camera array based UAV-UGV autonomous landing system. 
 
 ## Perofrmance
 ![demo](UAV_UGV_autolanding_Demo.png)
