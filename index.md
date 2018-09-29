@@ -10,4 +10,4 @@ Our proposed hybrid camera array based UAV-UGV autonomous landing.
 ## Perofrmance
 ![demo](UAV_UGV_autolanding_Demo.png)
 
-Demo video for Hybrid camera array based UAV Auto-Landing on Ground Moving UGV in GPS-denied Environment can be download [here](https://github.com/npuautolanding/npuautolanding.github.io/settings). 
+Demo video for Hybrid camera array based UAV Auto-Landing on Ground Moving UGV in GPS-denied Environment can be download [here](https://pan.baidu.com/s/1S2WCkA6BtukzHXkAhbOEnQ). 
