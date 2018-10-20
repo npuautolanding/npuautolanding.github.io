@@ -10,4 +10,4 @@ An illustration of our proposed hybrid camera array based UAV-UGV autonomous lan
 ## Perofrmance
 [![demo](UAV_UGV_AutoLanding_Demo.png)](https://youtu.be/2JNWDdAnKT4)
 
-Training, testing dataset and demo video for Hybrid camera array based UAV Auto-Landing on Ground Moving UGV in GPS-denied Environment can be download [baidu](https://pan.baidu.com/s/1aolF6WoAdFHXrnBRjjwwIQ). [youtube](https://youtu.be/2JNWDdAnKT4). 
+Training, testing dataset and demo video for Hybrid camera array based UAV Auto-Landing on Ground Moving UGV in GPS-denied Environment can be download [baidu](https://pan.baidu.com/s/1hMPQZSg1gVHAOzT9r0gvTQ). [youtube](https://youtu.be/2JNWDdAnKT4). 
